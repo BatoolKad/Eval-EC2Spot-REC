@@ -7,6 +7,10 @@ This repository contains the replica package for our contribution as following:
 2. Processed dataset used to train, test, and evaluate the model
 3. Configuration of python libraries `requirements.txt`
 
+
+Run script `pip install -r requirements.txt
+`
+
 Please cite the paper if your
 
 All copyrights are for the authors; please cite the paper if you reuse any part of the code or dataset.
