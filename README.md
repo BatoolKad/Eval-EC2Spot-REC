@@ -4,7 +4,8 @@
 
 This repository contains the replica package for our contribution as following:
 1. Source code of trained models.
-2. Processed dataset used to train, test, and evaluate the models
+2. Processed dataset used to train, test, and evaluate the model
+3. Configuration of python libraries `requirements.txt`
 
 Please cite the paper if your
 
