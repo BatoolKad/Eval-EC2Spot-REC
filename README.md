@@ -11,8 +11,6 @@ This repository contains the replica package for our contribution as following:
 Run script `pip install -r requirements.txt
 `
 
-Please cite the paper if your
-
 All copyrights are for the authors; please cite the paper if you reuse any part of the code or dataset.
 
 Don't hesitate to get in touch with the authors if you want to enhance the source code or if you have any questions.
