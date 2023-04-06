@@ -1,3 +1,15 @@
+
+
+"""
+
+    tuning_knnr.py
+    Author: Batool Alkaddah
+    Email: batool.kaddah@gmail.com
+    This code is part of my Master's Thesis Desseration @Concordia University
+    Date: Oct 1st, 2022
+
+"""
+
 import time as time
 import datetime
 from sklearn import metrics
